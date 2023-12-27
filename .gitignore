@@ -1,0 +1,6 @@
+Backup
+Release
+*.obj
+*.exe
+Debug
+.vs
